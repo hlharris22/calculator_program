@@ -11,7 +11,8 @@
 -Allow user to change the theme of calculator window (pokemon!)
 -Restrict resizing of the window
 -Store history of calculations in an excel file
--create an .exe for the program"""
+-create an .exe for the program
+Testing changes"""
 
 
 import tkinter as tk

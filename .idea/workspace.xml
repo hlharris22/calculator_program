@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce5ad54e-c71c-4eb3-8950-665074d00ae0" name="Default Changelist" comment="" />
+    <list default="true" id="ce5ad54e-c71c-4eb3-8950-665074d00ae0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +81,7 @@
       <updated>1578263803505</updated>
       <workItem from="1578263805853" duration="1398000" />
       <workItem from="1578265215093" duration="632000" />
+      <workItem from="1578265983009" duration="24000" />
     </task>
     <servers />
   </component>
@@ -89,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
